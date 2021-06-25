@@ -7,7 +7,7 @@ const data = [
   "NOS",
   "Leddy fucking someone up",
   "Cars on a plane",
-  "butts",
+  "BUTTS",
   "Foreign vs. Domestic cargument",
   "Magical Crucifix",
   "International location",
