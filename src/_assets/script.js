@@ -8,7 +8,7 @@ const data = [
   "Leddy fucking someone up",
   "Cars on a plane",
   "butts",
-  "Foreign vs Doesticv cargument",
+  "Foreign vs. Domestic cargument",
   "Magical Crucifix",
   "International location",
   "Dom fights with wrench",
