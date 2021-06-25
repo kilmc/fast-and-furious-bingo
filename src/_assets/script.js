@@ -64,16 +64,19 @@ console.log(randomItems);
 bingoList.innerHTML = randomItems
   .map(
     (item) =>
-      `<li class="bingo-item"><span class="bingo-item__text">${item}</span></li>`
+      `<button class="bingo-item"><span class="bingo-item__text">${item}</span></button>`
   )
   .join("");
 
 const bingoItems = document.getElementsByClassName("bingo-item");
+let count = 0;
 
 for (const element of bingoItems) {
   element.addEventListener("click", function (e) {
     const newSpan = document.createElement("span");
     newSpan.className = "stamped";
+    newSpan.classList.add(`stamped__${count}`);
+    count === 4 ? (count = 0) : count++;
     element.appendChild(newSpan);
   });
 }
