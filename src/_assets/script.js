@@ -40,7 +40,7 @@ const data = [
   "Surviving certain death",
   "Saying grace",
   "New unlikeable character becomes family",
-  "Yelling 'JUMP' to during a chase",
+  "Yelling 'JUMP' during a chase",
   "Walkie-talkie-less conversations between cars",
   "Gear head flexing",
   "Really bad hacking",
