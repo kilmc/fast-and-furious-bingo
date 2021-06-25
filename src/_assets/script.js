@@ -47,7 +47,7 @@ const data = [
   "Roman getting dunked on",
   "Roman complains about the situation",
   "Roman gets distracted by hot women",
-  "Big star",
+  "Famous actor cameo / added to cast",
   "Ignoring tragedies",
   "Brian reference",
   "Defying orders",
