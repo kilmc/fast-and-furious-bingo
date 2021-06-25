@@ -9,5 +9,8 @@
     "build": "eleventy"
   },
   "author": "Kilian McMahon",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
 }
