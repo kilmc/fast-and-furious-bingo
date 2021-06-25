@@ -1,0 +1,13 @@
+{
+  "name": "fast-and-furious-bingo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "author": "Kilian McMahon",
+  "license": "ISC"
+}
