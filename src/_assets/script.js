@@ -30,7 +30,7 @@ const data = [
   "The one use of Fuck (PG-13)",
   "NOS engage animation",
   "Driving through gates",
-  "Rock drives massive vehicle",
+  "Hobbs drives massive vehicle",
   "Dick joke",
   "Break glass to get car keys",
   "Headbutts",
@@ -39,7 +39,7 @@ const data = [
   "Impossible jump",
   "Surviving certain death",
   "Saying grace",
-  "New unlikeable character becomes family",
+  "Villain becomes family",
   "Yelling 'JUMP' during a chase",
   "Walkie-talkie-less conversations between cars",
   "Gear head flexing",
@@ -52,6 +52,7 @@ const data = [
   "Brian reference",
   "Defying orders",
   "Cops letting marks get away",
+  "Cringey villain one-liners",
 ];
 
 const bingoList = document.getElementById("bingo-list");
