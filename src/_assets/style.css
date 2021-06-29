@@ -48,8 +48,6 @@ main {
   grid-template-rows: repeat(5, 1fr);
   border-right: 1px solid black;
   border-top: 1px solid black;
-  width: 50rem;
-  height: 50rem;
   list-style-type: none;
   padding: 0;
   margin: auto;
